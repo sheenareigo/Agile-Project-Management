@@ -74,7 +74,7 @@ Here are some visuals that represent the project management process:
   *This screenshot shows the Jira board timeline, including sprints and completed tasks.*
 
 - **Issue Tracker**: ![Issue Tracker](screenshots/JiraBoard_IssueTracker.png)
-  *This image captures the bugs and issues that are assigned to team members, their status and progress*
+  *This image captures the bugs and issues that are assigned to team members, their statuses and progress*
 
 - **Requirements Translation to Epics/User Stories**: ![Task Progress](screenshots/ProjectRequirementsBreakdown.png)
   *This screenshot illustrates the project requirements translated into epics*
